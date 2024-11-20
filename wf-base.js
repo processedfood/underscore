@@ -1,4 +1,4 @@
-<!-- Toggle Accordion Attributes for Accessibility -->
+// Toggle Accordion Attributes for Accessibility 
 // Select all accordion components
 const accordions = document.querySelectorAll('.accordion_component');
 
