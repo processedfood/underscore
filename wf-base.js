@@ -1,5 +1,4 @@
 <!-- Toggle Accordion Attributes for Accessibility -->
-<script>
 // Select all accordion components
 const accordions = document.querySelectorAll('.accordion_component');
 
@@ -25,4 +24,3 @@ accordions.forEach((accordion) => {
     }
   });
 });
-</script>
