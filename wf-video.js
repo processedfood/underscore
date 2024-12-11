@@ -1,6 +1,6 @@
 // Function to set up video playback controls directly on .us-vid-cover elements
 function undVideoFunctions() {
-    // Select all video elements with the class 'us-vid-cover'
+    // Select all video elements with the class 'und-vid-cover'
     const videoElements = document.querySelectorAll('.und-vid-cover');
 
     videoElements.forEach(video => {
